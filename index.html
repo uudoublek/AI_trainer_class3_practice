@@ -993,7 +993,7 @@ function getProgress(qid) {
 function isMastered(qid) {
   const wr = getWrongRecords();
   const recs = wr[qid];
-  return !recs || (recs.length === 3 && recs.every(r => r.correct));
+  return !recs || recs.every(r => r.correct);
 }
 function updateWrongRecord(qid, correct, userAns, correctAns) {
   const wr = getWrongRecords();
@@ -1001,8 +1001,8 @@ function updateWrongRecord(qid, correct, userAns, correctAns) {
   wr[qid].unshift({ time: new Date().toLocaleString('zh-CN'), correct, userAns, correctAns });
   if (wr[qid].length > 3) wr[qid] = wr[qid].slice(0, 3);
 
-  // 三连对 → 移出错题集
-  const mastered = wr[qid].length === 3 && wr[qid].every(r => r.correct);
+  // 全部正确 → 移出错题集（无需满 3 条）
+  const mastered = wr[qid].every(r => r.correct);
   if (mastered) {
     delete wr[qid];
   }
@@ -1255,7 +1255,7 @@ function showMasteryToast(qid) {
   const toast = document.createElement('div');
   toast.id = 'masteryToast';
   toast.className = 'mastery-toast';
-  toast.textContent = `🎉 ${qid} 已三连对，移出错题集！`;
+  toast.textContent = `🎉 ${qid} 已全部答对，移出错题集！`;
   document.body.appendChild(toast);
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => { if (toast.parentNode) toast.parentNode.removeChild(toast); }, 2500);
@@ -1412,7 +1412,7 @@ document.getElementById('btnImportLog').addEventListener('click', () => {
             wr[qid] = recs;
           }
           // 检查是否已掌握
-          if (wr[qid].length === 3 && wr[qid].every(r => r.correct)) {
+          if (wr[qid].every(r => r.correct)) {
             delete wr[qid];
           }
         });

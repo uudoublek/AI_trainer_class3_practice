@@ -164,6 +164,17 @@ function renderPractical() {
     html += `<div class="prac-subq" data-sub="${si}">`;
     html += `<div class="prac-subq-title">${escHtml(sub.t || sub.y || `第 ${sub.n || si+1} 题`)}</div>`;
 
+    // 4.x.x：直接填充答案到文本中，特殊颜色标注
+    if (q.i.startsWith('4.') && blanks.length > 0) {
+      let filled = template;
+      blanks.forEach(b => {
+        filled = filled.replace(`{{${b.i}}}`, `<span class="prac-answer-fill">${escHtml(b.a)}</span>`);
+      });
+      html += `<div class="prac-answer-prose prac-answer-4">${filled.replace(/\n/g, '<br>')}</div>`;
+      html += `</div>`;
+      return;
+    }
+
     if (blanks.length === 0) {
       // 无空白，直接渲染模板为代码
       html += `<pre class="prac-code">${escHtml(template)}</pre>`;

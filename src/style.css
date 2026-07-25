@@ -576,7 +576,16 @@ body {
 .prac-ans-block ol, .prac-ans-block ul { padding-left: 20px; margin-bottom: 8px; }
 .prac-ans-block li { margin-bottom: 4px; }
 .prac-ans-block strong { font-weight: 600; }
-.prac-actions { margin-top: 10px; }
+.prac-actions { margin-top: 10px; display: flex; align-items: center; gap: 8px; }
+.prac-shortcut {
+  font-size: 11px;
+  color: var(--text-light);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: "SF Mono", "Consolas", monospace;
+}
 .btn-sm { padding: 6px 14px; font-size: 12px; }
 
 /* 4.x.x 填空答案内联高亮 */

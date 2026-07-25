@@ -222,7 +222,6 @@ function renderPractical() {
                   data-answer="${val}"
                   value="" placeholder="..." 
                   style="min-width:6ch;width:6ch"
-                  ondblclick="revealPracAnswer(this)"
                   oninput="autoGrowInput(this)"
                   onkeydown="pracInputKeydown(event)">`;
               }
@@ -236,6 +235,7 @@ function renderPractical() {
         // 显示/隐藏答案按钮
         html += `<div class="prac-actions">
           <button class="btn btn-outline btn-sm" onclick="togglePracAnswers(this)">👁 显示本空答案</button>
+          <span class="prac-shortcut">⌘+Enter:显示/清空</span>
         </div>`;
       }
     }
@@ -334,9 +334,14 @@ function pracGoNext() {
 
 // Input auto-grow
 function autoGrowInput(el) {
-  const len = el.value.length || 1;
-  el.style.width = `min(${Math.max(6, len + 2)}ch, 95%)`;
-  if (el.value.length === 0) el.style.width = '6ch';
+  const val = el.value;
+  if (val.length === 0) { el.style.width = '6ch'; return; }
+  // 中文字符 ≈ 2ch，ASCII 字符 ≈ 1ch
+  let cjk = 0;
+  for (const ch of val) { if (ch.charCodeAt(0) > 0x7f) cjk++; }
+  const ascii = val.length - cjk;
+  const w = Math.max(6, cjk * 2 + ascii + 3);
+  el.style.width = `min(${w}ch, 95%)`;
 }
 
 // Reveal single answer (double-click)

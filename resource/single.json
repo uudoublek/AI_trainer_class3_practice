@@ -1,0 +1,9302 @@
+[
+  {
+    "id": "single1",
+    "序号": "single1",
+    "简述": "解决数据标注问题的无效方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在解决人工智能训练中的数据标注问题时，( )不是有效的方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用预标注和人工审核结合的半自动标注方法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 引入主动学习的方法优化标注过程",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 增加人工标注人员的数量",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 提高数据标注的自动化水平",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single2",
+    "序号": "single2",
+    "简述": "导致标注结果不一致的主因",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "数据标注项目中，( )最可能导致标注结果的不一致性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 标注人员对标注标准理解不同",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 标注成本低于预算",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据集划分过于均匀",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用了最新的标注工具",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single3",
+    "序号": "single3",
+    "简述": "提高复杂数据标注效率的方式",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "当面临大量复杂的数据需要标注时，( )助于提高标注效率。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 采用半自动标注工具",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 忽略部分复杂数据",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 增加标注人员数量",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 减少标注任务量",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single4",
+    "序号": "single4",
+    "简述": "数据标注在AI训练中的重要性",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在人工智能训练过程中，数据标注的重要性主要体现在( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增强算法的鲁棒性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 确保数据质量",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 降低存储需求",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 提高计算速度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single5",
+    "序号": "single5",
+    "简述": "解决数据标注不一致的措施",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "当面临数据标注不一致的问题时，应该采取的措施是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 删除所有不一致的数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 随意修改数据标签",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 忽略不一致的数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 重新审核和校正数据",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single6",
+    "序号": "single6",
+    "简述": "提高数据处理效率的方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在数据处理阶段，( )的方法可以帮助提高数据处理效率。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用更强大的硬件设备",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 增加数据处理人员",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 采用集中式计算",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 优化数据处理算法",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single7",
+    "序号": "single7",
+    "简述": "数据处理中不导致丢失或错误的步骤",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在数据处理过程中，( )步骤不会导致数据丢失或错误。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据转换",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据加载",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据计算",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 数据清洗",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single8",
+    "序号": "single8",
+    "简述": "数据处理首要步骤",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在进行数据处理时，( )步骤应该首先进行。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据抽取",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 数据探索",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据转换",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据加载",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single9",
+    "序号": "single9",
+    "简述": "企业常用培训方法补全",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "企业常用的培训方法包括讲授法、讨论法、( )和案例分析法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 实践法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 角色扮演法",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 游戏法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 实地考察法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single10",
+    "序号": "single10",
+    "简述": "案例分析法特点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "案例分析法( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 可以提高学生的实践能力",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 适用于所有学科",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 无法培养学生的理论素养",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 需要大量时间准备案例",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single11",
+    "序号": "single11",
+    "简述": "研讨会法主要优点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "研讨会法的主要优点是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 能够提供即时的反馈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 能够培养员工的创新能力",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 能够让员工积极参与讨论",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 能够培养员工的团队合作精神",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single12",
+    "序号": "single12",
+    "简述": "提升员工技能的实际任务法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )是通过让员工参与实际工作任务来提高他们的技能和知识的方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 工作轮换法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 模拟训练法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 案例分析法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 角色扮演法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single13",
+    "序号": "single13",
+    "简述": "培训讲义编写关键环节",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在编写培训讲义的过程中，( )是至关重要的环节。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 进行试讲",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 制作课件",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 设计课程大纲",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 收集资料",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single14",
+    "序号": "single14",
+    "简述": "培训讲义排版方式",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了使培训讲义更具吸引力，可以采用( )的排版方式。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 大量图片",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 单一字体",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 多种字体",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 简单图表",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single15",
+    "序号": "single15",
+    "简述": "培训讲义吸引力提升要点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了使培训讲义更具吸引力，编写时应注重( )的选取和使用。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 理论",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 案例",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 图表",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single16",
+    "序号": "single16",
+    "简述": "Sketch矢量图形编辑用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Sketch的矢量图形编辑用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 进行用户访谈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 进行原型测试",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 制作高保真原型",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 设计界面UI",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single17",
+    "序号": "single17",
+    "简述": "Sketch调色板管理插件",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Sketch的插件生态系统中，( )插件可以帮助设计师快速创建和管理调色板，保持设计色彩一致性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. AutoLayout",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. ArtboardSnapping",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. SketchMeasure",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. ColorPalettes",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single18",
+    "序号": "single18",
+    "简述": "Marvel响应式设计预览用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Marvel的响应式设计预览用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制作用户旅程地图",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计界面UI",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 进行用户访谈",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 制作低保真原型",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single19",
+    "序号": "single19",
+    "简述": "Marvel设计评审功能用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Marvel的设计评审功能用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制作用户旅程地图",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 进行原型测试",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 设计界面UI",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户访谈",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single20",
+    "序号": "single20",
+    "简述": "Marvel简单交互设计用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Marvel的简单交互设计用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 进行用户访谈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计界面UI",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 制作低保真原型",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 制作高保真原型",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single21",
+    "序号": "single21",
+    "简述": "Figma设计系统支持用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Figma的设计系统支持用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制作用户旅程地图",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计界面UI",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 制作高保真原型",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户访谈",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single22",
+    "序号": "single22",
+    "简述": "Balsamiq Mockups设计定位",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Balsamiq Mockups的低保真设计用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 设计信息架构",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 制作低保真原型",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 制作高保真原型",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户访谈",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single23",
+    "序号": "single23",
+    "简述": "Axure RP复杂交互模拟用途",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "Axure RP的复杂交互模拟用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 进行用户访谈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计信息架构",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 进行市场调研",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 制作高保真原型",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single24",
+    "序号": "single24",
+    "简述": "Axure RP条件逻辑用途",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "Axure RP的条件逻辑设置用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 设计界面UI",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 实现交互逻辑",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 制作用户旅程地图",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户调查",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single25",
+    "序号": "single25",
+    "简述": "Adobe XD视觉设计用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Adobe XD的视觉设计工具用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 进行原型测试",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计界面UI",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 制作用户旅程地图",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户访谈",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single26",
+    "序号": "single26",
+    "简述": "Adobe XD快速原型定位",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "Adobe XD的快速原型制作主要用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制作低保真原型",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 进行市场调研",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 制作高保真原型",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行用户调查",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single27",
+    "序号": "single27",
+    "简述": "用户体验优化关注点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了提高用户体验，开发者应该关注( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 应用的性能优化",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 应用的推广策略",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 应用的界面设计",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 用户的使用情境分析",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single28",
+    "序号": "single28",
+    "简述": "流式布局适用场景",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "流式布局适用于( )场景。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 需要保持元素之间相对位置的页面",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 需要展示大量图片的页面",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 内容较多的页面",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 需要适应不同屏幕尺寸的页面",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single29",
+    "序号": "single29",
+    "简述": "任务分解责任归属",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "任务分解后，每个( )都应该有明确的负责人。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 关键节点",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 总任务",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 子任务",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 关键环节",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single30",
+    "序号": "single30",
+    "简述": "用户反馈收集方法辨析",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "设计过程中收集用户反馈的方法不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 用户访谈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. A/B测试",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 问卷调查",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 代码审查",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single31",
+    "序号": "single31",
+    "简述": "交互设计模板功能定位",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在常见的交互设计模板中，( )是专门为提高网站可用性和导航效率设计的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 登录界面模板",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 用户信息编辑模板",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 网站导航栏模板",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 商品详情页面模板",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single32",
+    "序号": "single32",
+    "简述": "可用性标准辨析",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "设计的可用性标准不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 易用性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 高效性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 多样性",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 错误率",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single33",
+    "序号": "single33",
+    "简述": "用户中心设计原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计用户中心时，应该遵循( )原则来提高用户体验。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 保持一致性",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 减少操作步骤",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提供个性化推荐",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用复杂的界面设计",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single34",
+    "序号": "single34",
+    "简述": "人机交互系统非性能评价指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不是人机交互系统的常见性能评价指标。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 响应时间",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 用户满意度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 系统稳定性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 输入设备的价格",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single35",
+    "序号": "single35",
+    "简述": "提升智能语音助手用户满意度的关键措施",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计智能语音助手时，( )助于提高用户满意度。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 减少语音识别的错误率",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 使用更复杂的算法来处理用户输入",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 限制助手的功能范围以简化使用",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 增加更多的语音指令",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single36",
+    "序号": "single36",
+    "简述": "情感设计的核心目标",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "情感设计的核心目标是提高用户的( )满意度。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 品牌满意度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 功能满意度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 价格满意度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 情感满意度",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single37",
+    "序号": "single37",
+    "简述": "用户测试与评估中确定测试目标和范围的阶段",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在用户测试与评估的过程中，( )阶段是用来确定测试目标和范围。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 执行测试",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 需求分析",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 结果分析与改进",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 设计测试用例",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single38",
+    "序号": "single38",
+    "简述": "原型设计与测试中指导模型调整的关键信息来源",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )是原型设计与测试过程中，人工智能训练师用于指导模型调整的关键信息来源。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 用户反馈的定性与定量数据",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 硬件设备的性能指标",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 模型的内部代码结构",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 训练数据集的规模",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single39",
+    "序号": "single39",
+    "简述": "人工智能训练师利用用户研究方法提升模型性能的方式",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在人工智能训练过程中，人工智能训练师( )有效利用用户研究的方法来提升模型性能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 忽视用户反馈，仅关注技术指标的优化",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 深入分析用户数据，结合用户研究方法论来指导模型训练",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 仅依赖个人经验进行模型调优",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 随意选择用户研究工具，不进行系统分析",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single40",
+    "序号": "single40",
+    "简述": "多模态交互系统需考虑上下文环境的原因",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在设计多模态交互系统时，需要考虑用户的上下文环境的原因是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 为了确保在任何环境下，交互模式都能有效、安全地工作",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 因为上下文环境对系统性能没有影响",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 上下文环境只影响视觉模式的交互",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 为了适应不同的环境噪声水平，优化语音识别",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single41",
+    "序号": "single41",
+    "简述": "VR交互设计中提升操作效率的输入设备",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "虚拟现实VR交互设计中，为了提高用户的操作效率，应该采用( )输入设备。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 触觉反馈手套",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 头戴式显示器",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 游戏手柄",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 运动控制器",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single42",
+    "序号": "single42",
+    "简述": "体现AR实时交互特性的功能",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "最能体现AR技术的实时交互特性的功能是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 高精度的数据分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 实时提供反馈和指导",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 存储大量数据的能力",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 长期跟踪学习进展",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single43",
+    "序号": "single43",
+    "简述": "语音交互设计中AI训练师需特别关注的事项",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )是语音交互设计中，人工智能训练师需要特别关注的事项。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 用户对话内容的情感倾向",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 系统响应速度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 语音识别准确率",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 用户体验调查问卷的满意度评分",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single44",
+    "序号": "single44",
+    "简述": "支持多点触控的触控技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )触控技术可以实现多点触控，提高用户体验。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 电容式",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 超声波",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 红外线",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 电阻式",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single45",
+    "序号": "single45",
+    "简述": "产品设计中确保可访问性必须遵循的原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在产品设计中，为了确保可访问性，( )原则是必须遵循的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 美观和视觉吸引力",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 简洁明了的设计",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 易于理解和操作",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 一致性和标准化",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single46",
+    "序号": "single46",
+    "简述": "项目管理中确保顺利进行的关键环节",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在项目管理中，( )是确保项目顺利进行的关键环节之一。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 执行",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 监控",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 反馈",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 规划",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single47",
+    "序号": "single47",
+    "简述": "输出设备设计应确保的特性",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计输出设备时，应该确保其( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 显示效果清晰",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 响应速度快",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 兼容多种格式",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据安全性高",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single48",
+    "序号": "single48",
+    "简述": "人机交互界面设计中帮助用户快速理解的关键原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计人机交互界面时，( )是非常重要的，因为它可以帮助用户快速理解如何使用产品。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 反馈",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 直观性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 一致性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 效率",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single49",
+    "序号": "single49",
+    "简述": "人机交互中控制器的功能",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人机交互中的控制器负责( )功能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 控制计算机系统的硬件和软件资源",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 接收用户输入并转换为机器可识别的信号",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 处理来自输入设备的信号并将其转换为输出设备可显示的信息",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 管理计算机系统的电源和散热系统",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single50",
+    "序号": "single50",
+    "简述": "人机交互中负责结果呈现的设备",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "在人机交互系统中，( )负责将计算机处理后的结果呈现给用户。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 显示器",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 硬盘",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 内存",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 处理器",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single51",
+    "序号": "single51",
+    "简述": "AI训练师提升模型性能与人机交互最紧密的方面",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "人工智能训练师在提升AI模型性能时，与人机交互的( )方面关系最为紧密。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据标注",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 算法设计",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 用户体验优化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 硬件设备选择",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single52",
+    "序号": "single52",
+    "简述": "AI产品迭代中用户反馈的主要作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在AI产品的迭代过程中，用户反馈的主要作用是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 优化产品性能和用户体验",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 评估市场营销策略",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 预测未来市场趋势",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 确定产品功能方向",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single53",
+    "序号": "single53",
+    "简述": "产品维护与升级中确保质量的重要措施",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在产品维护与升级的制定过程中，( )步骤是确保产品质量的重要措施。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 定期进行产品审查",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 收集用户反馈",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 制定详细的维护计划",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 实施严格的版本控制",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single54",
+    "序号": "single54",
+    "简述": "网络拓扑对故障恢复策略的影响方面",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "网络拓扑结构对故障恢复策略性设计的影响主要体现在( )方面。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 系统容错能力",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 系统安全性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 资源利用率",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据传输速度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single55",
+    "序号": "single55",
+    "简述": "数据泄露事件的法定应对措施",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "根据数据保护与隐私的法规要求，企业在发生数据泄露事件时必须立即采取( )措施。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 不通知受影响的用户，自行处理",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 加强数据安全措施",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 通知受影响的用户，报告给相关监管机构",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 进行内部调查",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single56",
+    "序号": "single56",
+    "简述": "代码审计与优化重要性不包括的内容",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "代码审计与优化对于软件开发过程的重要性不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 发现并修复潜在的安全漏洞",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 彻底消除所有软件缺陷",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 提高代码可读性，便于团队协作",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 优化代码性能，提升系统响应速度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single57",
+    "序号": "single57",
+    "简述": "可扩展性设计的主要目标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "可扩展性设计的主要目标是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 简化系统架构",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 减少系统维护难度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 降低系统成本",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 提高系统在负载增加时的性能",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single58",
+    "序号": "single58",
+    "简述": "分布式系统中实现负载均衡的算法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在分布式系统中，( )实现负载均衡以提高系统的性能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 最少连接数算法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 源地址哈希算法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 轮询算法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 随机算法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single59",
+    "序号": "single59",
+    "简述": "跨云服务集成所需技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了实现跨云服务的集成，通常需要使用( )技术。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. API",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 虚拟化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Web服务",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. SDK",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single60",
+    "序号": "single60",
+    "简述": "提高安全系统安全性的措施",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计一个安全系统时，( )措施可以提高系统的安全性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 定期进行系统漏洞扫描",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 减少系统的用户数量",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 增加系统的复杂度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用弱密码策略",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single61",
+    "序号": "single61",
+    "简述": "AI训练师实现产品差异化的数据策略",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "人工智能训练师通过( )数据策略实现产品差异化。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 降低数据清洗和预处理的标准",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 使用公开可用的通用数据集",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 避免使用实时数据以简化模型训练",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 采集和利用独特且高质量的行业数据",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single62",
+    "序号": "single62",
+    "简述": "UX设计中强调满足用户需求的原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在用户体验设计中，( )原则强调产品应满足用户需求并有效解决他们的问题。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 可取性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 实用性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 可用性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 可信度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single63",
+    "序号": "single63",
+    "简述": "UI中反馈机制的定义",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "用户界面设计UI中的反馈机制是指当用户与界面进行交互时，系统应该提供( )以确认操作是否成功。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 振动",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 文字提示",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 声音",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 动画效果",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single64",
+    "序号": "single64",
+    "简述": "系统集成设计中确保可扩展性的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在系统集成设计中，( )确保系统的可扩展性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用非标准化的接口和协议",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 定期进行系统维护",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 采用开放式架构",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 预留足够的硬件资源",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single65",
+    "序号": "single65",
+    "简述": "模型训练后选择最佳参数的方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在模型训练完成后，通常使用( )来选择最佳的模型参数。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 线性回归",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 网格搜索",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 随机搜索",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 贝叶斯优化",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single66",
+    "序号": "single66",
+    "简述": "AI技术选型时对数据层的关注原则",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )原则最符合人工智能技术选型时对数据层的关注。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 技术选型应完全由技术团队决定",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 优先选择最流行的技术框架",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 确保数据采集的全面性和实时性",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 追求最复杂的算法以获得最佳性能",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single67",
+    "序号": "single67",
+    "简述": "产品功能规划应具备的性质",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "产品功能规划应该具备( )性质。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 具有高度复杂性和灵活性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 尽可能涵盖所有可能的功能",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 与市场趋势和潮流保持一致",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 简单明了，聚焦核心需求",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single68",
+    "序号": "single68",
+    "简述": "用户需求分析中确保数据准确性的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在用户需求分析中，( )确保数据的准确性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 通过问卷调查收集数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 通过数据分析工具验证数据",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 通过观察法收集数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 通过访谈收集数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single69",
+    "序号": "single69",
+    "简述": "智能解决方案设计的核心目标",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "智能解决方案设计的核心目标是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 解决复杂问题并创造新价值",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 减少企业运营成本",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 优化现有业务流程",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 完全替代人工",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single70",
+    "序号": "single70",
+    "简述": "数据融合中确保一致性和可靠性的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据融合过程中，人工智能训练师通常确保数据的一致性和可靠性的方法有( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 只使用第一个数据源的数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 忽略数据之间的冲突",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 仅依赖自动化工具进行数据合并",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 实施数据清洗和预处理步骤",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single71",
+    "序号": "single71",
+    "简述": "异常值检测方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在异常值检测中，( )方法通常用于基于数据分布的异常值识别。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 频繁模式挖掘",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 离群值检测",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 聚类分析",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 相关性分析",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single72",
+    "序号": "single72",
+    "简述": "维度约简中特征重要性评估方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行维度约简时，通常使用( )方法来评估保留的特征的重要性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 相关系数",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 卡方检验",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 方差分析",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 信息增益",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single73",
+    "序号": "single73",
+    "简述": "时间序列去趋势与季节性方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "时间序列分析中，( )方法用于移除趋势和季节性效应。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 季节分解",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 自相关函数",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 累积和控制图",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 平稳性检验",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single74",
+    "序号": "single74",
+    "简述": "NLP文本分类常用算法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "自然语言处理中的文本分类任务通常使用( )算法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 支持向量机",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 神经网络",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 朴素贝叶斯",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 决策树",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single75",
+    "序号": "single75",
+    "简述": "强化学习中的反馈信号",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "在强化学习中，( )是指智能体在执行某个动作后获得的反馈信号。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 奖励",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 惩罚",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 收益",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 风险",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single76",
+    "序号": "single76",
+    "简述": "RNN核心思想",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "循环神经网络RNN的核心思想是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 采用自编码器进行特征提取",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 利用门控机制处理序列数据",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 使用注意力机制捕捉长距离依赖关系",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 通过反向传播算法优化网络参数",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single77",
+    "序号": "single77",
+    "简述": "随机森林生成决策树方式",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "随机森林算法是一种集成学习方法，它通过( )方式来生成多个决策树。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 对每个样本进行随机抽样",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 对每个数据进行随机抽样",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对每个类别进行随机抽样",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 对每个决策树进行随机抽样",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single78",
+    "序号": "single78",
+    "简述": "贝叶斯网络链式法则用途",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "贝叶斯网络中的链式法则用于计算( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 在已知某些条件下，事件A和事件B同时发生的概率",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 在已知某些条件下，事件B发生的概率",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 在已知某些条件下，事件A和事件B的联合概率",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 在已知某些条件下，事件A发生的概率",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single79",
+    "序号": "single79",
+    "简述": "神经网络激活函数作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "神经网络中的激活函数的作用是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 减少网络的训练时间",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 增强网络的表达能力",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 增加网络的复杂性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 提高网络的泛化能力",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single80",
+    "序号": "single80",
+    "简述": "决策树分析方法类型",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "决策树分析是一种( )方法",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 定性分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 定量分析",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 逻辑推理",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 模糊评价",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single81",
+    "序号": "single81",
+    "简述": "回归分析中参数估计方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在回归分析中，我们通常使用( )方法来确定模型的参数。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 主成分分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 最大似然估计",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 最小二乘法",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 聚类分析",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single82",
+    "序号": "single82",
+    "简述": "关联规则置信度定义",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "关联规则学习中的置信度是指( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 前件项目集出现的次数 / 总项目数",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 同时包含前件和后件的事务数 / 包含前件的事务数",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 前件项目集出现的次数 / 事务的平均长度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 前件项目集出现的次数 / 后件项目集出现的次数",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single83",
+    "序号": "single83",
+    "简述": "DBSCAN算法参数ε含义",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "DBSCAN算法是一种基于密度的聚类方法，它能够发现任意形状的簇，并且对噪声点具有较好的鲁棒性。DBSCAN算法中的两个重要参数是邻域半径ε和最小点数MinPts，其中ε表示( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 邻域内的最大距离",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 邻域内的最小点数",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 邻域内的最小距离",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 邻域内的平均距离",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single84",
+    "序号": "single84",
+    "简述": "导致模型过拟合的策略",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "应用机器学习算法时，( )策略可能导致模型过拟合。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加学习率",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 优化算法实现",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 减少正则化项的权重",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 采用随机梯度下降",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single85",
+    "序号": "single85",
+    "简述": "统计模型拟合优度指标",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "不是评估统计模型拟合优度的指标是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 残差平方和RSS",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 均方误差MSE",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 样本均值",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 平均绝对误差MAE",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single86",
+    "序号": "single86",
+    "简述": "数据分析流程步骤",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "在数据分析的标准流程中，( )步骤是紧接着收集数据之后进行的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据清洗",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据可视化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据挖掘",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single87",
+    "序号": "single87",
+    "简述": "特征选择的相关性方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在进行特征选择时，( )方法是通过计算特征与目标变量之间的相关性来进行筛选的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 线性回归",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 卡方检验",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 主成分分析",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 决策树",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single88",
+    "序号": "single88",
+    "简述": "资源分配策略",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在资源分配中，( )策略可以根据用户的实际需求来分配资源。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 平均分配策略",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 优先级分配策略",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 先到先得策略",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 按需分配策略",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single89",
+    "序号": "single89",
+    "简述": "安全性分析的原理",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "安全性分析的原理是通过对系统进行( )，以识别潜在的安全威胁和脆弱性，从而采取相应的安全措施来降低风险。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 风险评估",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 安全审计",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 漏洞扫描",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 入侵检测",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single90",
+    "序号": "single90",
+    "简述": "降低模型推理时间的方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在优化AI模型的响应时间时，( )方法可以直接减少模型推理时间。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 在模型中添加更多的正则化项",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 通过剪枝减少模型的参数数量",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 增加模型的深度和宽度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用更复杂的激活函数",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single91",
+    "序号": "single91",
+    "简述": "NLP文本预处理方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在自然语言处理中，( )方法可以用于文本预处理。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用TF-IDF进行特征选择",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 对文本进行情感分析",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 使用神经网络进行文本分类",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 对文本进行分词和去停用词",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single92",
+    "序号": "single92",
+    "简述": "特征工程中的特征构造方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "特征工程中的特征构造方法不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 基于统计量的特征构造",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 基于模型的特征构造",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 基于领域知识的特征构造",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 基于可视化分析的特征构造",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single93",
+    "序号": "single93",
+    "简述": "PCA在图像处理中主要用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在图像处理中，多维度数据分解技术如PCA主要用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加图像分辨率",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 改变图像色彩",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 压缩图像数据",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 提升图像亮度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single94",
+    "序号": "single94",
+    "简述": "多维度数据分解非主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "不属于多维度数据分解的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加数据的复杂性",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 提高数据处理效率",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 简化数据结构",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 增强数据的可解释性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single95",
+    "序号": "single95",
+    "简述": "社会网络分析中非中心性指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在社会网络分析中，中心性指标用于衡量节点在网络中的重要性。( )不是正确的中心性指标。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 接近中心性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 平均路径长度中心性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 度中心性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 介数中心性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single96",
+    "序号": "single96",
+    "简述": "网络中节点直接连接关系描述",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在网络分析中，( )描述了网络中节点之间的直接连接关系。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 可达性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 聚类系数",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 节点中心性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 邻居节点",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single97",
+    "序号": "single97",
+    "简述": "时间序列分析在天气预报中主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "时间序列分析在天气预报中主要用于( )目的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 分析历史气温趋势",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 预测未来天气变化",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 教育公众关于气候变化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 改善气象站设备",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single98",
+    "序号": "single98",
+    "简述": "文本数据拆解中分词目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在文本数据拆解过程中，分词的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 分析文本的语法结构",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 将文本切分成单词或短语",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 识别文本中的命名实体",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 判断文本的情感倾向",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single99",
+    "序号": "single99",
+    "简述": "消除时间序列趋势与季节性的过程",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "对于非平稳时间序列数据，通过减去先前观察值来消除趋势和季节性的过程叫做( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 差分",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 对数变换",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 归一化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 标准化",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single100",
+    "序号": "single100",
+    "简述": "基于模型特征拆解及选择初衷",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能训练师进行基于模型的特征拆解及选择的初衷是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加模型的运算速度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 提高模型的预测准确性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 降低数据存储需求",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 减少模型的复杂度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single101",
+    "序号": "single101",
+    "简述": "高度共线性对特征选择的影响",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在使用基于统计的特征选择时，如果特征之间存在高度共线性，最有可能发生的情况是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 特征的重要性会被低估",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 特征的重要性会被高估",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 特征之间的相关性将被忽略",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 特征选择将无法进行",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single102",
+    "序号": "single102",
+    "简述": "PCA在数据拆解中主要用途",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "主成分分析PCA在数据拆解中主要用于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 保持数据维度不变，仅优化数据分布",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 降低数据维度，减少计算复杂度",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 随机改变数据维度，增加模型的随机性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 增加数据的维度，使模型更复杂",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single103",
+    "序号": "single103",
+    "简述": "训练集/验证集/测试集常见比例",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "关于训练集、验证集和测试集的大小比例，( )属于常见合理的范围。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 训练集50%，验证集25%，测试集25%",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 训练集40%，验证集30%，测试集30%",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 训练集20%，验证集60%，测试集20%",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 训练集70%，验证集15%，测试集15%",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single104",
+    "序号": "single104",
+    "简述": "数据拆解模型原理错误说法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能算法训练师在数据拆解模型的原理中，不正确的说法是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据拆解能够减少运行时间和计算量",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据拆解无法帮助避免模型的过拟合问题",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据拆解有助于更准确地评估模型性能",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据拆解可以提高模型训练的效率",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single105",
+    "序号": "single105",
+    "简述": "数据拆解主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据拆解的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提高数据处理的效率",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 简化数据分析过程",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 增加数据的复杂性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使数据更难以理解",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single106",
+    "序号": "single106",
+    "简述": "企业经济效益与伦理考量平衡方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "企业平衡经济效益和伦理考量的方法( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 以经济效益为主，伦理考量为辅",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 不需要平衡，直接追求经济效益最大化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 以伦理考量为重，经济效益为辅",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 寻找经济效益和伦理考量的最佳平衡点",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single107",
+    "序号": "single107",
+    "简述": "性能优化策略遵循原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在实施性能优化策略时，应该遵循( )原则。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 逐步进行优化",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 先难后易",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 先易后难",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 一次性解决所有问题",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single108",
+    "序号": "single108",
+    "简述": "合规性测试标准排除项",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "合规性测试的标准不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 符合行业规范",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 符合公司内部政策",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 符合员工需求",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 符合法律法规要求",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single109",
+    "序号": "single109",
+    "简述": "敏捷开发核心实践",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "敏捷开发方法强调的是( )，以便快速响应变化并持续改进软件质量。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 频繁的代码审查和修复",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 定期的项目评审和反馈",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 严格的需求分析和设计",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 长期的项目规划和执行",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": true
+  },
+  {
+    "id": "single110",
+    "序号": "single110",
+    "简述": "自动化测试过程支持工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法测试实验管理中，( )工具可以帮助自动化测试过程。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 版本控制系统",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 测试框架",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 代码编辑器",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 文档管理系统",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single111",
+    "序号": "single111",
+    "简述": "日志分析中正则表达式目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "日志分析中，使用正则表达式的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 将日志数据转换为另一种格式",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 创建日志数据的备份",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 压缩日志文件以节省存储空间",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 快速定位和提取日志中的特定模式或关键信息",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single112",
+    "序号": "single112",
+    "简述": "模型可视化关键应用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在使用模型可视化工具时，关键应用是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 代替数据预处理步骤",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 帮助识别模型中的过拟合或欠拟合现象",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 生成模型训练所需的随机数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 替代传统的编码调试过程",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single113",
+    "序号": "single113",
+    "简述": "异常调试工具选择",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "当程序运行时出现异常，我们可以使用( )来查看异常的详细信息。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 输出语句",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 日志记录",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 单元测试",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 调试器",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single114",
+    "序号": "single114",
+    "简述": "算法测试报告非必需内容",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在撰写算法测试报告时，( )不是必须的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 测试环境的配置信息",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 测试用例的描述",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 开发者的个人感想",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 测试结果的详细数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single115",
+    "序号": "single115",
+    "简述": "评估预测值与实际值关系强度的统计量",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法测试中，若想评估模型预测值与实际值之间的关系强度，应使用的统计量是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 标准差",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 方差",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 相关系数",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 中位数",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single116",
+    "序号": "single116",
+    "简述": "用户反馈集成主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在人工智能系统测试中，用户反馈集成的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 利用用户的实际使用情况来评估和改进系统",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 减少测试用例的数量，降低测试成本",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 将用户反馈作为算法训练的主要数据来源",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 收集用户对系统性能的定量评价",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single117",
+    "序号": "single117",
+    "简述": "算法部署前关键步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法部署效果测试的流程中，( )步骤是在算法部署之前进行的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 模型训练与优化",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 效果评估",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据收集与处理",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 算法部署",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single118",
+    "序号": "single118",
+    "简述": "K折交叉验证常见K值",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "K折交叉验证中，K的取值通常为( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 5",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 1",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 3",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 2",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single119",
+    "序号": "single119",
+    "简述": "数据多样性与公平性测试核心原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行数据多样性与公平性测试时，( )原则是最重要的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 保证数据的准确性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 关注数据的代表性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 评估算法的公平性",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 确保数据的全面性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single120",
+    "序号": "single120",
+    "简述": "算法可解释性测试方法分类",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法可解释性与透明度测试中，( )的测试方法主要关注算法的内部逻辑和结构。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 基于模型",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 基于经验",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 基于规则",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 基于数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single121",
+    "序号": "single121",
+    "简述": "算法安全性测试核心方面",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行算法安全性测试时，需要考虑的方面包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 算法的执行效率",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 算法的健壮性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 输入数据的合法性",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 算法的输出结果",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single122",
+    "序号": "single122",
+    "简述": "算法鲁棒性测试常用方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法鲁棒性测试中，通常采用的方法包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 边界值分析",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 因果图法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 等价类划分",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 错误推测法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single123",
+    "序号": "single123",
+    "简述": "防止过拟合的数据划分",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在算法准确度测试中，为了避免过拟合现象，通常会将数据集划分为训练集和( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 学习集",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 验证集",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 测试集",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 开发集",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single124",
+    "序号": "single124",
+    "简述": "实时系统关键性能指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在实时系统中，除了评估模型的预测准确性之外，( )指标对于确保系统的响应速度至关重要。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 推理时间",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 模型的复杂度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 训练时间",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据集大小",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single125",
+    "序号": "single125",
+    "简述": "回归测试方法选择",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "对于回归测试，通常采用( )测试方法来确保修改没有引入新的错误。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 兼容性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 手动",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 自动化",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 性能",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single126",
+    "序号": "single126",
+    "简述": "测试代码修改的稳定性影响",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在使用测试框架进行测试时，( )操作是不推荐的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 在测试之前编写详细的测试计划",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 在测试之后编写测试报告",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 频繁修改测试代码",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 在测试过程中查看日志",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single127",
+    "序号": "single127",
+    "简述": "人工智能测试工具的主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能测试工具的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 优化算法性能",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 提高代码质量",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 降低开发成本",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 发现缺陷",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single128",
+    "序号": "single128",
+    "简述": "人工智能测试的主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能测试的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提升算法的计算速度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 增加AI系统的数据输入量",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 降低研发成本",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 确保AI系统的功能和性能符合预期",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single129",
+    "序号": "single129",
+    "简述": "边界条件测试方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在测试用例设计中，( )侧重于识别和测试软件中的边界条件。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 等价类划分法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 边界值分析法",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 因果图法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 决策表技术",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single130",
+    "序号": "single130",
+    "简述": "性能监控工具的核心功能",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "性能监控工具可以帮助我们( )系统性能瓶颈。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 优化",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 解决",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 发现",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 预测",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single131",
+    "序号": "single131",
+    "简述": "人工智能训练师关注的高性能计算重点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能训练师在利用高性能计算资源时，主要关注( )方面。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 网络带宽的分配",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 算法的优化与调参",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 操作系统的升级",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 硬件设备的物理维护",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single132",
+    "序号": "single132",
+    "简述": "大规模数据分布式处理工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据处理过程中，( )最适合用于大规模数据的分布式处理。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Pandas",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Matplotlib",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. NumPy",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Apache Spark",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single133",
+    "序号": "single133",
+    "简述": "容器化与虚拟机的主要区别",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "容器化技术与虚拟机技术的主要区别在于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 容器化技术不支持多操作系统，而虚拟机技术支持多操作系统。",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 容器化技术不涉及硬件抽象，而虚拟机技术涉及硬件抽象。",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 容器化技术运行在操作系统之上，而虚拟机技术运行在硬件之上。",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 容器化技术使用轻量级的隔离环境，而虚拟机技术使用完整的操作系统。",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single134",
+    "序号": "single134",
+    "简述": "容器化技术的核心优势",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "容器化技术的核心优势是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提供丰富的用户图形界面",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 主要用于网络安全防护",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 实现应用的快速部署和高效资源利用",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 需要占用大量的系统资源",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single135",
+    "序号": "single135",
+    "简述": "云平台在AI训练与部署中的非优势项",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在选择云平台进行人工智能模型训练和部署时，( )不是云平台提供的优势或服务。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 弹性计算资源，允许用户根据需求快速扩展或缩减计算能力",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 按需付费模式，用户仅需为实际使用的资源和服务付费",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 预配置的人工智能和机器学习服务，简化模型开发和部署流程",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 限制用户访问的地理位置，只能选择特定区域的数据中心",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single136",
+    "序号": "single136",
+    "简述": "自动化模型更新与版本管理工具",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在模型部署过程中，为了实现自动化的模型更新和版本管理，通常会使用( )工具。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. SVN",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Git",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Jenkins",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Spinnaker",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single137",
+    "序号": "single137",
+    "简述": "模型部署的正确理解",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "关于模型部署，描述正确的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 模型部署只需要考虑技术层面的因素",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 模型部署需要确保模型的安全性和隐私性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 模型部署是一个一次性完成的过程",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 模型部署不需要考虑用户体验",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single138",
+    "序号": "single138",
+    "简述": "机器学习算法性能评估的非常用指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在评估一个机器学习算法的性能时，( )指标不是常用的评价指标。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 精确率Precision",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 准确率Accuracy",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 运行时间Run Time",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 召回率Recall",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single139",
+    "序号": "single139",
+    "简述": "解决模型性能不佳的首要调试步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行人工智能模型调试时，( )可推荐用来解决模型性能不佳的问题",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 停止模型训练，因为认为模型已经足够好",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 忽略验证集的性能，只关注训练集上的准确率",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 检查模型训练数据的质量，确保没有错误或偏差",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 立即增加模型的参数数量",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single140",
+    "序号": "single140",
+    "简述": "模型训练动态监控工具的非典型功能",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )不是模型训练动态监控工具的典型功能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 允许用户远程访问和操作训练环境",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 检测并报告过拟合或欠拟合现象",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提供训练损失和验证损失的实时图表",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 自动调整模型参数以优化性能",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single141",
+    "序号": "single141",
+    "简述": "超参数调优中的性能评估方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在超参数调优过程中，通常使用( )方法来评估模型性能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 随机搜索",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 贝叶斯优化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 交叉验证",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 网格搜索",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single142",
+    "序号": "single142",
+    "简述": "算法验证中的形式化方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在算法验证过程中，通常采用的形式化方法包括模型检验和( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 形式化描述",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 代码审查",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 测试用例",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 逻辑推理",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single143",
+    "序号": "single143",
+    "简述": "成熟分布式训练支持的框架",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在进行大规模分布式训练时，( )框架提供了较为成熟的分布式训练支持。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Chainer",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. PyTorch",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. MXNet",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. TensorFlow",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single144",
+    "序号": "single144",
+    "简述": "大规模数据集训练的关键组件",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "为了高效地训练大规模数据集，( )软件组件最为关键。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 集成开发环境IDE",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据库管理系统",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 分布式训练框架",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 版本控制系统",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single145",
+    "序号": "single145",
+    "简述": "线性规划适用的问题类型",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "线性规划是一种用于求解( )问题的优化算法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 离散",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 线性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 非线性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 凸",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single146",
+    "序号": "single146",
+    "简述": "模型训练的核心目标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "模型训练的目标是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 最大化模型泛化能力",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 最小化模型损失",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 最大化模型准确率",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 最小化模型复杂度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single147",
+    "序号": "single147",
+    "简述": "图像多对象边界框标注工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "当需要对图像中的多个对象进行精确边界框绘制时，通常会使用的标注工具是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 关键点标注工具",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 目标检测标注工具",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 点云标注工具",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 多边形标注工具",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single148",
+    "序号": "single148",
+    "简述": "主成分分析的降维性质",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "降维的主要目的是减少数据的复杂性，同时保留数据中的重要信息。( )降维方法是通过将高维数据映射到低维空间来实现的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 遗传算法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 主成分分析",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 决策树",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 线性判别分析",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single149",
+    "序号": "single149",
+    "简述": "文本预处理中数值化步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行文本数据预处理时，( )步骤通常用于将文本转换为数值型数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 词干提取",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 去除停用词",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 编码转换",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 分词",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single150",
+    "序号": "single150",
+    "简述": "提升模型准确率的数据集划分方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在数据集划分时，如果目标是提高模型的准确性，应采用( )划分方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 按比例划分",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 随机划分",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 分层划分",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 交叉验证",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single151",
+    "序号": "single151",
+    "简述": "模型选择过程的排除项",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在算法训练过程中，选择合适的模型对于提高模型性能至关重要。( )步骤不属于模型选择过程。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 对模型进行评估和比较",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 对模型进行调参优化",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 了解不同模型的优缺点",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 根据任务需求选择合适的模型",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single152",
+    "序号": "single152",
+    "简述": "视觉类数据标注规范制定的目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在处理视觉类数据时，人工智能训练师制定规范的目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加数据集的多样性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 保证训练模型时的数据处理一致性和数据质量",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 加快数据处理的速度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 减少数据存储的空间需求",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single153",
+    "序号": "single153",
+    "简述": "文本类数据标注过程的非必要步骤",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在文本类数据标注过程步骤中，( )是不需要的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 构建词典",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 对数据进行分词",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 标记实体",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行情感分析",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single154",
+    "序号": "single154",
+    "简述": "图像读取的核心方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )是一种常用的图像读取方法，可以从文件中提取像素数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 图像解压缩",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 图像压缩",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 图像解码",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 图像编码",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single155",
+    "序号": "single155",
+    "简述": "Excel中识别重复数据的最佳实践",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Excel中进行数据清洗时，( )操作是用于识别重复数据的最佳实践。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 手动检查每一行数据寻找重复项",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 使用排序查找重复值",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 将数据转换为文本格式以便更容易识别重复",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用‘条件格式’高亮显示重复值",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single156",
+    "序号": "single156",
+    "简述": "数据可追溯性的核心目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据管理中，数据可追溯性的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 减少数据存储成本",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 确保数据来源和修改历史的透明度",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 增加数据的复杂性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 提高数据处理速度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single157",
+    "序号": "single157",
+    "简述": "数据可追溯性的起始环节",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了确保数据可追溯性，组织应该建立一套完整的数据管理流程，包括数据的( )、存储、传输和销毁等环节。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 应用",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 分析",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 创建",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 收集",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single158",
+    "序号": "single158",
+    "简述": "分布式数据处理效率提升的关键技术",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "分布式数据处理的优势之一是能够利用多个计算节点的计算能力，从而实现任务的快速响应和高效处理。这种优势主要得益于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 负载均衡技术",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 数据加密技术",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据压缩技术",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据缓存技术",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single159",
+    "序号": "single159",
+    "简述": "自动化标注降低的成本类型",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "自动化标注能够显著降低( )成本。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据存储",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据传输",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据标注",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 数据收集",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single160",
+    "序号": "single160",
+    "简述": "数据集划分的经典比例",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了确保模型具有较好的泛化能力，通常建议将数据集划分为( )的比例。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 40%训练集，40%验证集，20%测试集",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 30%训练集，50%验证集，20%测试集",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 40%训练集，30%验证集，30%测试集",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 80%训练集，10%验证集，10%测试集",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single161",
+    "序号": "single161",
+    "简述": "数据标注技术的根本目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据标注技术的目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 降低数据成本",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 简化数据处理流程",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提高数据质量",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 优化数据结构",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single162",
+    "序号": "single162",
+    "简述": "数据标注工具选型考量因素",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在选择数据标注工具时，应该权衡( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 易用性、成本、速度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 准确性、易用性、成本",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 准确性、成本、速度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 准确性、易用性、速度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single163",
+    "序号": "single163",
+    "简述": "特征工程中的关键操作",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行特征工程时，通常需要对数据进行( )，以便更好地进行模型训练。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据划分",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据清洗",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据变换",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 数据集成",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single164",
+    "序号": "single164",
+    "简述": "数据白化处理的主要目的",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "数据白化处理的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增强数据的可读性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 提高数据的准确性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 减少数据的冗余",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 保护数据的隐私",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single165",
+    "序号": "single165",
+    "简述": "数据归一化的定义",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据归一化处理的定义是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 将数据集中的所有值增加到最大可能的值。",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 将数据集中的所有值缩放到一个特定的小范围，通常是0到1之间。",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 将数据集中的所有值减少到最小可能的值。",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 将数据集中的所有值转换为相同的格式。",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single166",
+    "序号": "single166",
+    "简述": "位图法在数据去重中的原理",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "位图法在数据去重中的应用主要是通过( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 记录每个数据是否出现过",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 比较每个数据与已有数据的相似度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对数据进行排序",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 对数据进行压缩",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single167",
+    "序号": "single167",
+    "简述": "噪声数据处理中的滤波法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在噪声数据处理中，( )主要用于消除信号中的平稳随机噪声。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 滤波法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 模型法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 统计法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 变换法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single168",
+    "序号": "single168",
+    "简述": "Z-score方法的统计基础",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "Z-score方法是一种基于( )的异常值检测方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 标准差",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 众数",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 中位数",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 最大值",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single169",
+    "序号": "single169",
+    "简述": "箱线图在异常值检测中的作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "箱线图法在异常值检测中的作用是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 识别数据中的异常值",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 确定数据的分布范围",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 判断数据的集中趋势",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 评估数据的离散程度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single170",
+    "序号": "single170",
+    "简述": "分类数据缺失值处理方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "对于分类数据，( )方法可以用来处理缺失值。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用删除法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 使用众数填充缺失值",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 使用中位数填充缺失值",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 使用均值填充缺失值",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single171",
+    "序号": "single171",
+    "简述": "缺失数据处理中填充法的适用场景",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在缺失数据处理中，( )方法适用于存在大量相似观测值的情况。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 填充法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 删除法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 插值法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 替换法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single172",
+    "序号": "single172",
+    "简述": "数据可视化在数据探索分析中的作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行数据探索分析时，( )可以帮助我们更好地理解数据的结构和特点。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 统计分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据可视化",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据挖掘",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 机器学习",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single173",
+    "序号": "single173",
+    "简述": "数据探索分析的应用目标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据探索分析的结果通常用于支持( )决策。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 业务策略制定",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 市场推广",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 产品研发",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 客户关系管理",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single174",
+    "序号": "single174",
+    "简述": "模型部署工具的非使用方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )不是模型部署工具的使用方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 选择合适的部署环境",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 将模型文件上传到部署环境中",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对模型进行微调以提高性能",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 编写测试代码来验证模型的准确性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single175",
+    "序号": "single175",
+    "简述": "AI训练师选用Python/R的原因",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在智能训练数据处理中，人工智能训练师使用Python或R的主要原因是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 这些语言提供了丰富的库和框架，专门用于数据处理和机器学习。",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 这些语言不需要编程知识，任何人都可以轻松使用。",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 这些语言是唯一可以进行数据处理和机器学习的语言。",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 这些语言的处理速度是最快的，超过了其他所有编程语言。",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single176",
+    "序号": "single176",
+    "简述": "GAN生成器常用网络结构",
+    "难度": "高级",
+    "类型": "单选题",
+    "题目": "生成对抗网络中的生成器通常使用( )类型的神经网络结构。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 自编码器",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 生成对抗网络",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 卷积神经网络",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 循环神经网络",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single177",
+    "序号": "single177",
+    "简述": "实时日志监控工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在系统监控中，( )工具主要用于实时收集和分析日志数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Apache Hadoop",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. ELK Stack",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. PyTorch",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. TensorFlow",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single178",
+    "序号": "single178",
+    "简述": "模型训练自动化工具中的核心过程",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在模型训练自动化工具中，( )是指通过自动化的方式对模型进行迭代优化，以提高模型的性能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 特征工程",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据清洗",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 模型评估",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 模型训练",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single179",
+    "序号": "single179",
+    "简述": "交叉验证的主要目的",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在机器学习中，交叉验证的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 评估模型的泛化能力",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 减少模型的复杂性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提高模型的训练速度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 增加模型的预测准确性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single180",
+    "序号": "single180",
+    "简述": "深度学习中防止过拟合的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在深度学习中，用来防止过拟合的方法是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 减少训练数据量",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 仅使用一层隐藏层",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 增加模型的复杂度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 应用早停技术",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single181",
+    "序号": "single181",
+    "简述": "数据加载与预处理主力工具库",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )工具库主要用于数据的加载和预处理。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Matplotlib",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Scikit-learn",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Pandas",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. NumPy",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single182",
+    "序号": "single182",
+    "简述": "自动化标注持续优化的机制",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在自动化标注中，为了提高标注的准确性，系统可能会利用( )机制来不断优化其标注能力。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 机器学习",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 专家系统",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 手动校验",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 随机猜测",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single183",
+    "序号": "single183",
+    "简述": "结构化数据收集的适用方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在确定数据收集方法时，应该考虑数据的类型和来源，( )方法适用于收集结构化数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 观察法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 访谈",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 实验法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 问卷调查",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single184",
+    "序号": "single184",
+    "简述": "NumPy的核心优势",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "NumPy库在数据处理中的优势在于其高效的( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 字符串处理",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据库连接",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 图形绘制",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数组计算",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single185",
+    "序号": "single185",
+    "简述": "快速原型设计推荐的机器学习库",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "如果需要快速原型设计和实验，( )机器学习库更适合。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Scikit-learn",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. PyTorch",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. TensorFlow",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Keras",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single186",
+    "序号": "single186",
+    "简述": "分类模型常用评估指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在评估分类模型的准确性时，通常使用( )指标。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 均方误差",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 对数损失",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 均方根误差",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 准确率",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single187",
+    "序号": "single187",
+    "简述": "召回率Recall的计算公式",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在模型评估中，召回率Recall的计算方法是：( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 错误预测的样本数 / 总样本数",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 正确预测的样本数 / 总样本数",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 假正例数 / 真正例数 + 假正例数 / 假负例数",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 真正例数 / 真正例数 + 真正例数 / 假负例数",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single188",
+    "序号": "single188",
+    "简述": "自动标注所依赖的核心技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "自动标注方法是指利用( )技术对数据进行自动标注。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 计算机程序",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 自动化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 机器学习算法",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 数据挖掘技术",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single189",
+    "序号": "single189",
+    "简述": "分布式数据分片的关键依据",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在数据分片中，( )是用来决定如何将数据分割到各个分片的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 主键",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 外键",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 唯一键",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 分区键",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single190",
+    "序号": "single190",
+    "简述": "图像数据增强中的缩放技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据增强方法中，( )是一种常见的图像变换技术，它可以改变图像的大小和形状。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 平移",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 旋转",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 缩放",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 裁剪",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single191",
+    "序号": "single191",
+    "简述": "过滤法特征选择的典型准则",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在特征选择方法中，过滤法通常基于( )准则来选择特征。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 信息增益",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 方差阈值",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 相关性系数",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 互信息",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single192",
+    "序号": "single192",
+    "简述": "加速模型收敛的关键策略",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在模型训练时，( )策略可以帮助模型更快地收敛到最优解。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 早停法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 学习率调整",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 动量减速",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 梯度裁剪",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single193",
+    "序号": "single193",
+    "简述": "智能训练中常用的特征提取方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在智能训练中，特征提取的主要方法之一是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. K-均值聚类",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 主成分分析",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 贝叶斯分类器",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 决策树",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single194",
+    "序号": "single194",
+    "简述": "CNN中提取图像特征的核心层",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "卷积神经网络CNN的核心组件包括卷积层、池化层和全连接层，其中( )层用于提取图像特征。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 激活层",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 池化层",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 卷积层",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 全连接层",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single195",
+    "序号": "single195",
+    "简述": "监督学习的定义",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "机器学习中的监督学习是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 通过已知数据进行模型训练，以预测新数据的类别或值",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 通过已知数据进行模型训练，以预测新数据的关联性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 通过已知数据进行模型训练，以预测新数据的分布",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 通过已知数据进行模型训练，以预测新数据的特征",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single196",
+    "序号": "single196",
+    "简述": "业务数据分析方法中的关键步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在业务数据分析方法中，( )步骤涉及到对数据进行深入的探讨和理解。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 收集数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 分析数据",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 得出结论",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 清洗数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single197",
+    "序号": "single197",
+    "简述": "用于深入挖掘数据背后原因的结构化分析方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在业务数据分析方法中，( )是一种结构化的数据分析方法，用于深入挖掘数据背后的原因和影响。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 决策树分析法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 时间序列分析法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 神经网络分析法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 因果分析法",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single198",
+    "序号": "single198",
+    "简述": "数据处理工具的核心功能",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据处理工具的主要功能是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 将数据以图表等形式展示出来",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 从各种来源获取数据",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对数据进行清洗和预处理",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 进行复杂的数据分析",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single199",
+    "序号": "single199",
+    "简述": "知识图谱中实体与关系的标准表示法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "知识图谱中的实体和关系的表示方法通常是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 使用XML格式来编码实体和它们之间的关系",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 实体和关系被表示为图中的节点和边，其中实体是节点，关系是连接节点的边",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 实体和关系通过神经网络中的权重和激活函数来表示",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 实体和关系通过数据库表中的行和列来表示",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single200",
+    "序号": "single200",
+    "简述": "产生式系统的典型应用领域",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "产生式系统通常用于( )领域的知识表示。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 自然语言处理",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 图像识别",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 语音识别",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 专家系统",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single201",
+    "序号": "single201",
+    "简述": "综合业务流程优化的根本目标",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "综合业务流程优化方法的目标是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提升质量",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 降低成本",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提高效率",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 增强竞争力",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single202",
+    "序号": "single202",
+    "简述": "复杂业务系统改进的首要步骤",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在进行复杂业务系统的改进时，首先应该进行的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 设计新的业务流程",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 确定改进的目标和范围",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 制定详细的实施计划",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 分析现有系统的优点和缺点",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single203",
+    "序号": "single203",
+    "简述": "综合业务流程分析的非典型工具",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在综合业务流程分析中，常用的工具不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 鱼骨图",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 甘特图",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. SWOT分析",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 流程图",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single204",
+    "序号": "single204",
+    "简述": "评价业务流程优化效果的重要指标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在评价业务流程优化效果时，( )是一个重要的指标。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 销售额",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 生产效率",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 产品质量",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 员工满意度",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single205",
+    "序号": "single205",
+    "简述": "评估简单业务流程优化效果的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了确保简单业务流程优化的效果，企业应该采取( )方法来评估流程改进的成果。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 流程模拟",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 成本效益分析",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对比分析",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 问卷调查",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single206",
+    "序号": "single206",
+    "简述": "了解业务流程现状的关键信息来源",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在了解业务流程现状时，( )是非常重要的信息来源。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 客户反馈信息",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 市场调查报告",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 员工访谈记录",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 企业战略规划文件",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single207",
+    "序号": "single207",
+    "简述": "业务流程建模的标准工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "业务流程的展现形式与技术通常使用( )来绘制。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 电子表格软件",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 流程图软件",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 文字处理软件",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据库管理系统",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single208",
+    "序号": "single208",
+    "简述": "确保数据收集准确性的关键步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了确保数据收集的准确性，通常需要对数据进行( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 转换",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 清洗",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 整合",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 验证",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single209",
+    "序号": "single209",
+    "简述": "提升企业响应速度的流程优化策略",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在业务流程优化过程中，( )策略可以提高企业的响应速度。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加流程",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 自动化处理",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 整合相关活动",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 消除非增值活动",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single210",
+    "序号": "single210",
+    "简述": "业务模块构建的核心目标",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "业务模块构建方法强调的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 降低维护成本",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 快速开发",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 高质量代码",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 灵活性和可扩展性",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single211",
+    "序号": "single211",
+    "简述": "数据挖掘中的非分类算法识别",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据挖掘方法中，( )技术不是分类算法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 支持向量机",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 关联规则",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 随机森林",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. K-最近邻",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single212",
+    "序号": "single212",
+    "简述": "人工智能训练师在知识发现流程中的职责边界",
+    "难度": "高级",
+    "类型": "单选题",
+    "题目": "在知识发现的流程中，( )不是由人工智能训练师执行的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 模型调优",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 模型开发",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据分类",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 模式识别",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single213",
+    "序号": "single213",
+    "简述": "计算智能的核心技术",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "计算智能的核心技术是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 模糊逻辑",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 机器学习",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 深度学习",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进化计算",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single214",
+    "序号": "single214",
+    "简述": "计算机视觉的主要功能辨析",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "计算机视觉通过模拟人类视觉系统来处理和分析图像，( )不是其主要功能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 图像压缩",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 图像增强",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 图像分类",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 图像恢复",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single215",
+    "序号": "single215",
+    "简述": "生物特征识别的主要应用场景",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "生物特征识别功能模块的主要应用场景包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 网络安全",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 医疗诊断",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 金融安全",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 智能家居",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single216",
+    "序号": "single216",
+    "简述": "自然语言处理中的情感倾向分析任务",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "自然语言处理中的( )任务通常涉及对文本进行分析，以确定其是积极的、消极的还是中性的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 命名实体识别",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 情感分析",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 句法分析",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 词性标注",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single217",
+    "序号": "single217",
+    "简述": "智能控制功能模块的核心原理",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "智能控制功能模块的原理主要包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 通信技术",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 人工智能技术",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 自动控制理论",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 传感器技术",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single218",
+    "序号": "single218",
+    "简述": "离散优化问题的典型求解方法",
+    "难度": "高级",
+    "类型": "单选题",
+    "题目": "( )方法常用于解决离散优化问题。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 牛顿法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 遗传算法",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 拉格朗日乘数法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 梯度下降法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single219",
+    "序号": "single219",
+    "简述": "自动数据处理提速的关键环节",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "自动数据处理功能模块在( )环节可以提高数据处理速度。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据分析",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据清洗",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据可视化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据收集",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single220",
+    "序号": "single220",
+    "简述": "智能交互功能模块的核心优势",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "智能交互功能模块的优势在于( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 降低人工成本",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 拓展应用领域",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 提高用户体验",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 增强系统稳定性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single221",
+    "序号": "single221",
+    "简述": "知识图谱在智能搜索中的作用",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在智能搜索功能模块中，( )技术可以用来构建和维护一个庞大的实体关系网络。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 知识图谱",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 搜索引擎优化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据挖掘",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 个性化推荐",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single222",
+    "序号": "single222",
+    "简述": "协同过滤推荐原理",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在推荐系统中，( )方法是基于用户过去的购买或评分历史来预测他们可能喜欢的项目。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 基于内容的推荐",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 混合推荐",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 基于知识的推荐",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 协同过滤",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single223",
+    "序号": "single223",
+    "简述": "AI业务个性化服务实现方式",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能业务的功能之一是通过( )为用户提供个性化的服务体验。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 智能推荐系统",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 自动化客服",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据分析",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 虚拟现实",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single224",
+    "序号": "single224",
+    "简述": "人工智能训练师工作内容辨析",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在人工智能业务的分类中，( )不是人工智能训练师常见的工作内容。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制定和执行数据收集计划",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 编写和调试机器学习算法代码",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 监督学习项目的进展",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 进行市场趋势分析",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single225",
+    "序号": "single225",
+    "简述": "低频小数据量业务场景识别",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )业务场景的数据产生特点是低频度、数据量小。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 证券市场的股票交易数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 体育赛事的直播数据",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 企业的专利申请数据",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 网络游戏的玩家行为数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single226",
+    "序号": "single226",
+    "简述": "合规性检查依据范围",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "合规性检查的目的是确保组织的数据处理活动符合( )的要求。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 法律法规",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 客户期望",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 行业标准",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 内部政策",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single227",
+    "序号": "single227",
+    "简述": "减少业务流程延误的关键措施",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在设计高效业务流程时，( )措施最有助于减少不必要的延误。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 增加审批环节",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 简化决策流程",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 扩大团队规模",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 实施自动化工具",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single228",
+    "序号": "single228",
+    "简述": "异常值检测方法适用性",
+    "难度": "高级",
+    "类型": "单选题",
+    "题目": "在数据校验和异常数据检测的方法中，( )方法不可以用于检测数据中的异常值。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Z-score方法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. K-means方法",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. DBSCAN方法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. IQR方法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single229",
+    "序号": "single229",
+    "简述": "数据质量专家评估法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )是一种通过邀请领域专家对数据进行评价来评估数据质量的方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 专家评估法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 逻辑检查法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 抽样评估法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 统计分析法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single230",
+    "序号": "single230",
+    "简述": "容器化技术优势辨析",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "容器化技术在业务数据处理流程中的优势不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 易于部署",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 易于扩展",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 易于迁移",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 易于监控",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single231",
+    "序号": "single231",
+    "简述": "特征选择方法辨析",
+    "难度": "高级",
+    "类型": "单选题",
+    "题目": "( )不是特征选择的主要方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 降维法",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 过滤法",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 包装法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 嵌入法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single232",
+    "序号": "single232",
+    "简述": "实时数据处理核心技术原理",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "实时数据处理技术的主要原理是通过( )来对数据进行快速处理和分析。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 串行计算",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 缓存技术",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 分布式计算",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 批处理",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single233",
+    "序号": "single233",
+    "简述": "用户隐私保护脱敏技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了保护用户隐私，业务数据相关流程中应该采用( )技术来对数据进行脱敏处理。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据脱敏",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 数据加密",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据掩码",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据备份",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single234",
+    "序号": "single234",
+    "简述": "数据转换中非常规质量提升方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "为了提高数据质量，数据转换过程中常用的方法不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据压缩",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 数据规范化",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据去重",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据标准化",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single235",
+    "序号": "single235",
+    "简述": "数据清洗与预处理流程第一步",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据清洗与预处理流程中，( )是第一步。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据转换",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据分析",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据整理",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据收集",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single236",
+    "序号": "single236",
+    "简述": "常见数据库管理系统识别",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不是常见的数据库管理系统。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. MySQL",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Hadoop",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. MongoDB",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Oracle",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single237",
+    "序号": "single237",
+    "简述": "无效的数据质量保障方法",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "为了确保抓取的数据质量，( )方法是无效的。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 减少抓取深度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 避免抓取重复内容",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 使用更复杂的抓取规则",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 设置合理的抓取间隔",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single238",
+    "序号": "single238",
+    "简述": "小型网站数据抓取适用技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "对于小型网站的数据抓取任务，( )技术可能更适合。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据库查询",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. JavaScript渲染",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. SDK",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 网络爬虫",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single239",
+    "序号": "single239",
+    "简述": "数据源质量评估的关键因素",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在评估数据源的质量时，( )指标不是关键因素。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据的准确性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据的多样性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 数据的可解释性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据的时效性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single240",
+    "序号": "single240",
+    "简述": "网络数据采集全面性方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行网络数据采集时，我们应该优先选择( )方法来确保数据的全面性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 问卷调查",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 爬虫",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 观察法",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 访谈",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single241",
+    "序号": "single241",
+    "简述": "AI训练师业务流程管理工具",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "为人工智能训练师，( )工具最常用于业务流程管理与优化。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. TensorFlow",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Docker",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Oracle BPM Suite",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. Kubernetes",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single242",
+    "序号": "single242",
+    "简述": "Power BI支持操作系统",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "Power BI支持( )操作系统。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. macOS",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. iOS",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Windows",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. Linux",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single243",
+    "序号": "single243",
+    "简述": "离线审核平台适用场景",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "离线审核平台通常用于( )场景。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 处理小规模数据",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 处理大量历史数据",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 处理非结构化数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 处理实时数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single244",
+    "序号": "single244",
+    "简述": "数据质量监控工具主要目的",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "企业使用数据质量监控工具的主要目的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提高数据处理的速度",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 确保数据的准确性和可靠性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 降低数据处理的难度",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 减少数据存储的需求",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single245",
+    "序号": "single245",
+    "简述": "特征工程中探索性分析工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )可能被人工智能训练师用于特征工程，以辅助数据的探索性分析。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据库管理系统",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据可视化工具",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 文本编辑器",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 网络浏览器",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single246",
+    "序号": "single246",
+    "简述": "数据可视化工具主要作用",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "数据可视化工具的主要作用是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 展示数据",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 分析数据",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 清洗数据",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 存储数据",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single247",
+    "序号": "single247",
+    "简述": "内存计算平台设计初衷",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "内存计算平台的设计初衷是为了解决( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提高数据处理的效率",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 降低存储成本",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 解决数据倾斜问题",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 支持复杂的数据挖掘算法",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single248",
+    "序号": "single248",
+    "简述": "CSV转XML高效工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行CSV到XML数据格式转换时，可以使用( )工具或语言的库效率最高。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Python的pandas库",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. Excel",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Notepad++",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. PowerPoint",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single249",
+    "序号": "single249",
+    "简述": "云服务主要特点",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "不属于云服务主要特点的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 弹性伸缩",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 完全无限制",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 高可用性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 按需付费",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single250",
+    "序号": "single250",
+    "简述": "大量非结构化数据处理数据库",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )更适合处理大量非结构化数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 分布式数据库",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 内存数据库",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 关系型数据库",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 非关系型数据库",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single251",
+    "序号": "single251",
+    "简述": "ETL工具使用第一步",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "ETL工具的使用方法通常包括这些步骤：1. 设计ETL过程；2. 配置ETL工具；3. 执行ETL过程；4. 监控和维护ETL过程。其中，( )是ETL工具使用方法的第一个步骤。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 执行ETL过程",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 设计ETL过程",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 配置ETL工具",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 监控和维护ETL过程",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single252",
+    "序号": "single252",
+    "简述": "数据治理工具在AI培训中的作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "数据治理工具在人工智能培训中的作用，描述正确的是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 数据治理工具帮助人工智能训练师获取和整理培训所需的高质量数据",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 数据治理工具与人工智能培训无关",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据治理工具只用于数据可视化",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 数据治理工具主要用于数据删除",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single253",
+    "序号": "single253",
+    "简述": "数据持久化与高效检索工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在数据采集流程中，使用( )可以帮助我们实现数据的持久化与高效检索。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 网络爬虫",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 数据可视化工具",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据存储与管理工具",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 数据分析软件",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single254",
+    "序号": "single254",
+    "简述": "提升数据抓取效率的技术",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了提高数据抓取效率，可以使用( )技术。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 多线程",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 单线程",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 验证码识别",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 模拟登录",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single255",
+    "序号": "single255",
+    "简述": "非结构化数据采集工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在进行数据采集时，( )工具可以处理非结构化数据。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Excel",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Access",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Python",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. Mysql",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single256",
+    "序号": "single256",
+    "简述": "可无限期拥有的知识产权",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "有可能无限期拥有的知识产权是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 专利权",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 集成电路图设计权",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 商标权",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 著作权",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single257",
+    "序号": "single257",
+    "简述": "专利新颖性丧失情形",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "根据我国《专利法》的规定，申请专利的发明创造在申请日以前六个月内，出现( )的情况，会丧失新颖性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 他人未经申请人同意而泄露其内容",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 在中国政府主办或者承认的国际展览会上首次展出",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 在规定的学术会议或者技术会议上首次发表",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 他人使用申请人未公开的类似技术方案",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single258",
+    "序号": "single258",
+    "简述": "著作权法保护对象",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "根据著作权法的规定，( )受著作权法的保护。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 历法",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 计算机软件",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 国家机关的决定",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 法律条文",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single259",
+    "序号": "single259",
+    "简述": "知识产权法基本原则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "知识产权法的基本原则包括保护创作成果、鼓励创新和技术进步以及( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 公平分配利益",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 限制知识产权滥用",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 促进知识传播",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 保障公共利益",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single260",
+    "序号": "single260",
+    "简述": "人工智能训练师劳动权益",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "据劳动保护的法律规定，人工智能训练师在工作中享有( )的权益。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 无限制的加班权利",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 自由选择工作时间",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 接受定期的安全培训",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 直接参与公司利润分配",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single261",
+    "序号": "single261",
+    "简述": "遵纪守法的社会价值体现",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不是遵纪守法的社会价值体现。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 树立社会道德风尚",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 维护社会秩序和稳定",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 阻碍社会发展和创新",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 保障人民权利和自由",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single262",
+    "序号": "single262",
+    "简述": "专利申请流程标准化步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不属于专利申请流程的标准化步骤。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提交专利申请",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 专利局审查",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 投入市场生产",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 授予专利权",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single263",
+    "序号": "single263",
+    "简述": "专利授权实质性条件",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不是专利授权的实质性条件。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 实用性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 新颖性",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 美观性",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 创造性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single264",
+    "序号": "single264",
+    "简述": "专利申请权主体资格",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )不能作为专利申请权的主体。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 自然人",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 非法人组织",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 法人",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 某研究所课题组",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single265",
+    "序号": "single265",
+    "简述": "关键信息基础设施特殊保护方面",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )是关键信息基础设施的特殊保护中的一方面。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 网络安全",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 应急响应",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 数据安全",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 物理安全",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single266",
+    "序号": "single266",
+    "简述": "网络接入规范要求",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "网络接入的规范要求不包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 不得进行非法网络活动",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 遵守国家网络安全和信息技术管理法规",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 保障接入网络的安全性和稳定性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 无需获得相关资质即可提供接入服务",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single267",
+    "序号": "single267",
+    "简述": "网络运营者安全保障义务",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "网络运营者应当履行的安全保障义务包括( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 未经用户同意不得发布广告",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 不得收集用户个人信息",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 采取技术措施和其他必要措施，保障网络安全、稳定运行",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 向第三方提供用户个人信息",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single268",
+    "序号": "single268",
+    "简述": "用人单位不得解除劳动合同的情形",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "用人单位不得解除劳动合同的情形是( )。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 患职业病或者因工负伤被确认丧失或者部分丧失劳动能力的",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 被依法追究刑事责任的",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 在试用期被证明不符合录用条件的",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 严重违反劳动纪律或者用人单位规章制度的",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single269",
+    "序号": "single269",
+    "简述": "劳动合同必备条款的排除项",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "( )不是劳动合同必备的核心条款。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 劳动合同期限",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 社会保险和福利待遇",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 工作内容和工作地点",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 劳动者家庭情况",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single270",
+    "序号": "single270",
+    "简述": "劳动合同无效情形的排除项",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "( )不会导致劳动合同无效。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 双方当事人真实意思表示一致",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 用人单位免除自己的法定责任、排除劳动者权利的",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 一方以欺诈、胁迫的手段或者乘人之危，使对方在违背真实意思的情况下订立或者变更劳动合同的",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 违反法律、行政法规强制性规定的",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single271",
+    "序号": "single271",
+    "简述": "Excel宏的主要作用",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Microsoft Excel中，宏的主要作用是（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 将数据从一个工作表复制到另一个工作表",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 格式化工作表的单元格",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 自动执行一系列预定义的操作",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 手动执行一系列复杂的计算任务",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single272",
+    "序号": "single272",
+    "简述": "Excel中不能用于切换工作簿的快捷方式",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在Excel中，（　　）不可以快速切换不同的工作簿。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Ctrl+Shift+Tab",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. Ctrl + Page Down",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 鼠标点击工作表目录",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Ctrl+PageUp",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single273",
+    "序号": "single273",
+    "简述": "Excel中展示时间序列数据的最佳图表类型",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Excel中，（　　）图表类型最适合用于展示时间序列的数据变化。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 条形图",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 饼图",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 散点图",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 折线图",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single274",
+    "序号": "single274",
+    "简述": "Excel中F$2的单元格引用类型",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在Excel工作表单元格中输入公式时，F$2的单元格引用方式称为（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 相对地址引用",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 绝对地址引用",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 混合地址引用",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 交叉地址引用",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single275",
+    "序号": "single275",
+    "简述": "Excel中将日期转换为文本的函数",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Excel中，使用（　　）函数可以将一个日期转换为文本格式。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. DATE",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. VALUE",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. TEXT",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. NUMBER",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single276",
+    "序号": "single276",
+    "简述": "Word图文混排中调整图片大小的方法",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "在Word中进行图文混排时，调整图片大小的方法（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 双击图片，然后在弹出的对话框中输入新的尺寸",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 左键点击图片，选择'大小和位置'选项进行调整",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 选择图片，然后按键盘上的方向键进行微调",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 单击图片，然后拖动图片边框上的控制点",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single277",
+    "序号": "single277",
+    "简述": "Word中快速应用格式的方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Word中，通过（　　），来快速应用一组格式选项。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 创建个性化样式模板",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 在样式库中选择并应用内置样式",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 使用格式刷复制并应用格式",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 手动逐一调整每个段落的格式",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single278",
+    "序号": "single278",
+    "简述": "Word2019插入当前日期的快捷键",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "为了提高Word2019文档的编辑效率，可以使用（　　）快捷键来快速插入当前日期。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. ALT + Shift + D",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. Ctrl + Shift + Y",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Ctrl + Shift + I",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. ALT + Shift + T",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single279",
+    "序号": "single279",
+    "简述": "Excel中快速定位列底单元格的快捷键",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在Excel中，使用（　　）键可以快速将光标移动到当前列最底下的单元格。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Ctrl + Home",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Ctrl + Down",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. Ctrl + Right",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Ctrl + Left",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single280",
+    "序号": "single280",
+    "简述": "网页代码调试工具",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "使用（　　）可以帮助我们调试网页代码，查看元素结构以及分析网络请求等。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 开发者工具",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 资源管理器",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 任务管理器",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 控制面板",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single281",
+    "序号": "single281",
+    "简述": "浏览器新建标签页快捷键",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "在浏览器中，要打开一个新的标签页，应该使用快捷键（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. Ctrl + Shift + T",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. Ctrl + Shift + N",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. Ctrl + N",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. Ctrl + T",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single282",
+    "序号": "single282",
+    "简述": "打开Windows小工具的方式",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "要打开Windows小工具，用户需要（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 右键任务栏空白区域",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 右键单击开始按钮",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 左键任务栏空白区域",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 从开始菜单中选择小工具",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single283",
+    "序号": "single283",
+    "简述": "Windows网络连接故障的首选排查方法",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "当Windows系统无法连接到网络时，首先应该尝试（　　），快速修复方法。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 重启路由器或计算机",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 检查其他设备是否能够连接网络",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 联系售后",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 重装网络适配器驱动程序",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single284",
+    "序号": "single284",
+    "简述": "Windows系统维护工具的作用",
+    "难度": "入门",
+    "类型": "单选题",
+    "题目": "使用Windows系统的维护利器可以（　　）系统性能。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 提高",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 保持不变",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 降低",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 无法确定",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single285",
+    "序号": "single285",
+    "简述": "五笔字型汉字输入法的编码类型",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "五笔字型汉字输入法的编码属于（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 形声码",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 形码",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 音码",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 区位码",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single286",
+    "序号": "single286",
+    "简述": "AI训练师的用户隐私保护措施",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在保护用户隐私方面，人工智能训练师应采取（　　）措施。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 仅对敏感数据进行部分加密",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 随意限制数据访问权限",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 对敏感数据进行加密存储，限制数据访问权限，并定期进行安全审计",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 定期进行数据备份，但不进行安全审计",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single287",
+    "序号": "single287",
+    "简述": "爱岗敬业的非典型表现",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "爱岗敬业的具体表现不包括（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 只在自己喜欢的岗位上工作",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 严格遵守企业规章制度",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 树立远大的职业理想",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 努力提升专业技能",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single288",
+    "序号": "single288",
+    "简述": "诚实守信的职业行为体现",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在职业守则中，诚实守信主要体现在（　　）行为上。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 为迎合市场趋势，夸大产品效果",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 随意许诺，以满足客户需求",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 不轻易承诺，但一旦答应就全力以赴",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 为提高工作效率，省略必要的工作步骤",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single289",
+    "序号": "single289",
+    "简述": "职业守则执行的监督机制",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "为了确保职业守则的有效执行，组织应当采取（　　）机制来确保其落实。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 单独采用自我监督",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 主要依靠外部监督",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 仅依赖内部监督",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 结合内部监督和外部监督",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single290",
+    "序号": "single290",
+    "简述": "职业守则制定中的公平性保障步骤",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "在职业守则的制定过程中，（　　）的步骤旨在确保守则的公平性和合理性。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 制定详细的实施计划",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 通过行业大会进行表决",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 收集各方意见和建议",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 由专业机构进行审核",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single291",
+    "序号": "single291",
+    "简述": "爱岗敬业的企业定位",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "爱岗敬业是企业对从业人员的（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 职业要求",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 职业纪律",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 职业规定",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 职业守则",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single292",
+    "序号": "single292",
+    "简述": "强化岗位职业责任的关键路径",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "从业人员要强化岗位职业责任必须要做到（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 了解职业责任、坚守工作岗位",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 坚守工作岗位、履行职业守则",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 了解职业责任、强化责任意识",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 坚守工作岗位、强化责任意识",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single293",
+    "序号": "single293",
+    "简述": "职业道德不直接规范的关系类型",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "职业道德是职业守则的核心内容之一，不属于职业道德强调的关系是（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 个人与社会",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 个人与他人",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 个人与集体",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 个人与工作职责",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single294",
+    "序号": "single294",
+    "简述": "AI训练师的核心岗位素质",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "人工智能训练师需要具备的素质包括（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 敏锐的市场洞察力",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 高级图形设计技能",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 高级管理技能",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 扎实的技术基础",
+        "is_correct": true
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single295",
+    "序号": "single295",
+    "简述": "AI职业道德中隐私保护的核心原则",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "在人工智能的职业道德中，最能体现其对隐私保护的重视是（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 忠诚",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 保密",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 勤勉",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 诚信",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single296",
+    "序号": "single296",
+    "简述": "AI训练师处理用户数据的首要责任",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "从道德和社会责任角度考虑，人工智能训练师在处理用户数据时，应确保数据的（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 完整性",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 安全性",
+        "is_correct": true
+      },
+      {
+        "label": "C",
+        "text": "C. 准确性",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 可追溯性",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single297",
+    "序号": "single297",
+    "简述": "‘鞠躬尽瘁，死而后已’体现的职业道德准则",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "古人所谓的“鞠躬尽瘁，死而后已”。揭示了职业活动内在的道德准则中的（　　）准则。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 审慎",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 民主",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 勤勉",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 忠诚",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single298",
+    "序号": "single298",
+    "简述": "职业道德的历史起源",
+    "难度": "中级",
+    "类型": "单选题",
+    "题目": "职业道德真正形成于（　　）。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 原始社会",
+        "is_correct": false
+      },
+      {
+        "label": "B",
+        "text": "B. 封建社会",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 奴隶社会",
+        "is_correct": true
+      },
+      {
+        "label": "D",
+        "text": "D. 资本主义社会",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single299",
+    "序号": "single299",
+    "简述": "职业道德的调节对象",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "（　　）是调整职业个人、职业主体和社会成员之间关系的行为准则和规范。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 职业纪律",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 职业良心",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 职业责任",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 职业作风",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  },
+  {
+    "id": "single300",
+    "序号": "single300",
+    "简述": "狭义职业道德的适用范围",
+    "难度": "初级",
+    "类型": "单选题",
+    "题目": "职业道德的概念有广义和狭义之分。狭义的职业道德是指在（　　）活动中应遵循的职业行为准则和规范。",
+    "选项": [
+      {
+        "label": "A",
+        "text": "A. 一定职业",
+        "is_correct": true
+      },
+      {
+        "label": "B",
+        "text": "B. 职业活动",
+        "is_correct": false
+      },
+      {
+        "label": "C",
+        "text": "C. 危险职业",
+        "is_correct": false
+      },
+      {
+        "label": "D",
+        "text": "D. 普通职业",
+        "is_correct": false
+      }
+    ],
+    "是否收藏": false
+  }
+]

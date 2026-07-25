@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>理论题库 · 答题练习</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 迁移弹窗 -->
+<div class="dialog-overlay" id="migrateOverlay" style="display:none">
+  <div class="dialog">
+    <div class="dialog-title">🔄 发现旧版做题记录</div>
+    <div class="dialog-body">
+      检测到你有 <strong id="migrateCount">0</strong> 条历史做题记录。<br>
+      是否导入错题集？将根据历史答题情况标记需要巩固的题目。
+    </div>
+    <div class="dialog-actions">
+      <button class="btn btn-primary" id="btnMigrateYes">✅ 导入错题集</button>
+      <button class="btn btn-outline" id="btnMigrateNo">⏭ 以后再说</button>
+    </div>
+  </div>
+</div>
+
+<div class="header">
+  <h1>📝 理论题库 · 答题练习</h1>
+  <div class="header-stats">
+    <span id="hintTotal">加载中…</span>
+    <span id="hintLogCount">日志: 0 条</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- Loading -->
+  <div id="loading">
+    <div class="spinner"></div>
+    <div>正在加载题库…</div>
+  </div>
+
+  <!-- Main content -->
+  <div id="app" style="display:none">
+
+    <!-- Tabs -->
+    <div class="tabs" id="tabBar">
+      <button class="tab-btn active" data-type="single">📖 单选题 <span id="countSingle">0</span></button>
+      <button class="tab-btn" data-type="multi">📚 多选题 <span id="countMulti">0</span></button>
+      <button class="tab-btn" data-type="judge">⚖️ 判断题 <span id="countJudge">0</span></button>
+      <button class="tab-btn tab-wrong" data-type="wrong">❌ 错题集 <span id="wrongCount">0</span></button>
+      <button class="tab-btn" data-type="practical">🛠 操作题 <span id="pracCount">0</span></button>
+    </div>
+
+    <!-- Theory area (tabs: single/multi/judge/wrong) -->
+    <div class="theory-area">
+    <!-- Navigator -->
+    <div class="nav-bar">
+      <label>题号</label>
+      <button class="nav-btn" id="btnPrev">◀</button>
+      <input type="number" id="qNum" min="1" value="1">
+      <button class="nav-btn" id="btnNext">▶</button>
+      <span class="nav-info" id="navInfo">1 / 300</span>
+    </div>
+
+    <!-- Progress bar (wrong questions only) -->
+    <div id="progressBar" class="progress-bar" style="display:none"></div>
+
+    <!-- Question card -->
+    <div class="q-card">
+      <div class="q-meta">
+        <span class="q-tag" id="qTag">单选题</span>
+        <span class="q-tag" id="qDiff">中级</span>
+        <span class="q-summary" id="qSummary">-</span>
+      </div>
+      <div class="q-text" id="qText">-</div>
+      <div class="options" id="optionsContainer"></div>
+
+      <div class="action-bar">
+        <button class="btn btn-primary" id="btnSubmit">✅ 提交判对错</button>
+        <button class="btn btn-outline" id="btnShowAns">👁 显示答案</button>
+        <button class="btn btn-outline" id="btnNextQ">➡ 下一题</button>
+      </div>
+
+      <div class="feedback" id="feedback"></div>
+    </div>
+
+    </div><!-- /theory-area -->
+
+    <!-- Practical question area (hidden by default) -->
+    <div id="practicalArea" style="display:none">
+      <div class="nav-bar">
+        <button class="nav-btn" id="pracPrev" onclick="pracGoPrev()">◀</button>
+        <span class="nav-info" id="pracInfo">1 / 40</span>
+        <button class="nav-btn" id="pracNext" onclick="pracGoNext()">▶</button>
+      </div>
+      <div id="pracChapterNav" class="prac-chapter-nav"></div>
+      <div id="pracContainer"></div>
+    </div>
+
+    <!-- Log section -->
+    <div class="section-toggle" id="logToggle">
+      <span class="arrow" id="logArrow">▶</span> 📊 答题记录与统计
+    </div>
+    <div id="logSection">
+      <div class="log-stats" id="logStats"></div>
+      <div class="log-tools">
+        <button class="btn btn-outline" id="btnExportLog">📥 导出做题记录</button>
+        <button class="btn btn-outline" id="btnImportLog">📂 导入做题记录</button>
+        <button class="btn btn-outline" id="btnClearLog">🗑 清空全部</button>
+      </div>
+      <div class="log-table-wrap">
+        <table class="log-table">
+          <thead><tr>
+            <th>时间</th><th>题号</th><th>你的答案</th><th>正确答案</th><th>结果</th>
+          </tr></thead>
+          <tbody id="logBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </div><!-- /app -->
+</div>
+
+<script src="data.js"></script>
+<script src="data_practical.js"></script>
+<script src="answers_31.js"></script>
+<script src="practical.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

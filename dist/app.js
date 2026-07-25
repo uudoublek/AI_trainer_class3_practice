@@ -219,7 +219,6 @@ document.getElementById('btnSubmit').addEventListener('click', function () {
   if (answered) return;
   const q = getQuestion();
   if (!q) return;
-
   const isWrongMode = currentType === 'wrong';
   const actualType = isWrongMode ? qidPrefix(q.i) : currentType;
 
@@ -242,15 +241,8 @@ document.getElementById('btnSubmit').addEventListener('click', function () {
   });
 
   const isCorrect = JSON.stringify(selected) === JSON.stringify(correctLabels);
-  const fb = document.getElementById('feedback');
-  if (isCorrect) {
-    fb.className = 'feedback correct show';
-    fb.innerHTML = `✅ <strong>回答正确！</strong><br>正确答案：<span class="fb-ans">${correctLabels.join('、')}</span>`;
-  } else {
-    fb.className = 'feedback wrong show';
-    fb.innerHTML = `❌ <strong>回答错误</strong><br>你的答案：${selected.length ? selected.join('、') : '（未选）'}<br>正确答案：<span class="fb-ans">${correctLabels.join('、')}</span>`;
-  }
-
+  showFeedback(q, correctLabels, isCorrect, selected);
+  console.log('[DEBUG] fb.innerHTML after set:', document.getElementById('feedback').innerHTML.substring(0, 100));
   answered = true;
   answerRevealed = true;
   document.getElementById('btnShowAns').textContent = '🔒 隐藏答案';
@@ -264,23 +256,45 @@ document.getElementById('btnSubmit').addEventListener('click', function () {
   }
 });
 
+function showFeedback(q, correctLabels, isCorrect, selected) {
+  const fb = document.getElementById('feedback');
+  const expl = q.e ? `<div style="padding:8px 12px;background:#e0f2fe;border-radius:8px;margin-bottom:10px;line-height:1.6">📖 ${q.e}</div>` : '';
+  const resultHtml = isCorrect === null
+    ? `<strong>正确答案：</strong><span class="fb-ans">${correctLabels.join('、')}</span>`
+    : isCorrect
+      ? `✅ <strong>回答正确！</strong><br>正确答案：<span class="fb-ans">${correctLabels.join('、')}</span>`
+      : `❌ <strong>回答错误</strong><br>你的答案：${selected.length ? selected.join('、') : '（未选）'}<br>正确答案：<span class="fb-ans">${correctLabels.join('、')}</span>`;
+  fb.innerHTML = expl + resultHtml;
+  fb.style.display = 'block';
+  fb.style.background = isCorrect === null ? '#f8fafc' : isCorrect ? '#f0fdf4' : '#fef2f2';
+  fb.style.border = isCorrect === null ? '1px solid #e2e8f0' : isCorrect ? '1px solid #bbf7d0' : '1px solid #fecaca';
+  fb.style.color = '#1e293b';
+  fb.style.padding = '14px 18px';
+  fb.style.borderRadius = '10px';
+  fb.style.fontSize = '14px';
+  fb.style.lineHeight = '1.6';
+}
+
 // ====== 显示/隐藏答案 ======
 document.getElementById('btnShowAns').addEventListener('click', function () {
   const q = getQuestion();
   if (!q) return;
   const container = document.getElementById('optionsContainer');
+  const fb = document.getElementById('feedback');
   if (!answerRevealed) {
     const correctLabels = q.o.filter(o => o.c).map(o => o.l);
     container.querySelectorAll('.opt-item').forEach(el => {
       el.classList.add('disabled');
       if (correctLabels.includes(el.dataset.label)) el.classList.add('correct');
     });
+    showFeedback(q, correctLabels, null, []);
     answerRevealed = true;
     this.textContent = '🔒 隐藏答案';
   } else if (!answered) {
     container.querySelectorAll('.opt-item').forEach(el => {
       el.classList.remove('disabled', 'correct', 'wrong', 'missed');
     });
+    fb.style.display = 'none';
     answerRevealed = false;
     this.textContent = '👁 显示答案';
   }

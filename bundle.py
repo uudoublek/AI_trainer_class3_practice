@@ -16,7 +16,8 @@ _DIST_SINGLE = _HERE
 def compress_q(q):
     opts = [{"l": o["label"], "t": o["text"], "c": o["is_correct"]} for o in q["选项"]]
     return {"i": q.get("id") or q.get("序号",""), "s": q.get("简述",""),
-            "d": q.get("难度",""), "q": q.get("题目",""), "o": opts}
+            "d": q.get("难度",""), "q": q.get("题目",""), "o": opts,
+            "e": q.get("解析","")}
 
 
 def html_to_plain(html_text):

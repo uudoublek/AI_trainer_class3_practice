@@ -243,20 +243,13 @@ function renderAnswer31(q) {
   const md = self.ANSWERS_31[q.i];
   const mdHtml = renderMarkdown(md);
 
-  // 图片列表
   let imgs = '';
-  for (let i = 1; i <= 5; i++) {
-    const imgPath = `3.1答案/${q.i}答案${i > 1 ? i : ''}.png`;
-    // 图片文件名格式: 3.1.1答案.png, 3.1.3答案1.png, 3.1.3答案2.png...
-    // 先试不带序号，再试带序号
-    const names = i === 1 ? [`${q.i}答案.png`, `${q.i}答案1.png`] : [`${q.i}答案${i}.png`];
-    // 简单处理: 显示检测到的图片
-  }
-  // 用 img.onerror 方式尝试加载
-  for (let n = 1; n <= 3; n++) {
-    const name = n === 1 ? `${q.i}答案.png` : `${q.i}答案${n}.png`;
+  // 加载图片：位置1同时试 答案.png 和 答案1.png（兼容不同命名规则）
+  const imgNames = [`${q.i}答案.png`, `${q.i}答案1.png`];
+  for (let n = 2; n <= 5; n++) imgNames.push(`${q.i}答案${n}.png`);
+  imgNames.forEach(name => {
     imgs += `<img src="3.1答案/${name}" class="prac-img" onerror="this.style.display='none'" loading="lazy">`;
-  }
+  });
 
   const html = `
     <div class="prac-header">
